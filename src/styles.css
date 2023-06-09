@@ -90,3 +90,8 @@ p {
   font-family: "Ysabeau", sans-serif;
   margin-top: 110px;
 }
+.link {
+  position: fixed;
+  bottom: 230px;
+  left: 545px;
+}
